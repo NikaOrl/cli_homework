@@ -1,0 +1,18 @@
+{
+    "name": "node-cli-boilerplate",
+    "description": "",
+    "version": "0.0.1",
+    "main": "index.js",
+    "author": "Nika",
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ],
+    "bin": {
+        "cli": "./bin/cli"
+    },
+    "dependencies": {
+        "commander": "^2.2.0"
+    }
+}
