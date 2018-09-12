@@ -1,7 +1,5 @@
 # cli_homework
 
-# Create react component
-
 ## Installing
 
 Install npm packages
