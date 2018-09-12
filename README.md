@@ -6,7 +6,7 @@ Install npm packages
 
 ``` npm install ```
 
-And run next command for using rjs
+And run next command for using cli
 
 ``` npm link ```
 
